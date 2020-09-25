@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="529e1f26-970a-495d-ab7a-8906601ec7ce" name="dayz-nitrado" url="http://ms2488.gamedata.io">
+        <fileTransfer host="ms2488.gamedata.io" port="21" rootFolder="/dayzxb_missions/dayzOffline.chernarusplus">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
