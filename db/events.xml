@@ -590,6 +590,7 @@
         <children>
             <child lootmax="20" lootmin="10" max="3" min="1" type="Wreck_Mi8"/>
             <child lootmax="20" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
+            <child lootmax="20" lootmin="10" max="3" min="1" type="Land_Wreck_C130J"/>
         </children>
     </event>
     <event name="StaticPoliceCar">
