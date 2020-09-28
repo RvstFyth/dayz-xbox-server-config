@@ -9054,14 +9054,14 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>172800</lifetime>
         <restock>1800</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier3"/>
