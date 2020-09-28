@@ -9792,10 +9792,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_8Rnd">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>86400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>8</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
