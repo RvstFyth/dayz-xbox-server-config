@@ -715,7 +715,7 @@
         </children>
     </event>
     <event name="TrajectoryPlum">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
