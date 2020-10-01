@@ -4232,7 +4232,7 @@
         <usage name="Village"/>
     </type>
     <type name="CivilianSedan">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -6935,7 +6935,7 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="Hatchback_02">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -6945,7 +6945,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Hatchback_02_Black">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -6955,7 +6955,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Hatchback_02_Blue">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -12727,7 +12727,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="Sedan_02">
-        <nominal>50</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>0</min>
