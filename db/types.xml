@@ -6535,10 +6535,10 @@
         <category name="tools"/>
     </type>
     <type name="Hacksaw">
-        <nominal>70</nominal>
+        <nominal>150</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>120</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6548,10 +6548,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Hammer">
-        <nominal>70</nominal>
+        <nominal>150</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>120</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7420,10 +7420,10 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="Hatchet">
-        <nominal>80</nominal>
+        <nominal>150</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>120</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10910,10 +10910,10 @@
         <category name="tools"/>
     </type>
     <type name="NailBox">
-        <nominal>140</nominal>
+        <nominal>200</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>90</min>
+        <min>180</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13398,10 +13398,10 @@
         <usage name="Town"/>
     </type>
     <type name="Shovel">
-        <nominal>70</nominal>
+        <nominal>110</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>90</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15593,10 +15593,10 @@
         <usage name="Town"/>
     </type>
     <type name="WoodAxe">
-        <nominal>70</nominal>
+        <nominal>150</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>120</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
