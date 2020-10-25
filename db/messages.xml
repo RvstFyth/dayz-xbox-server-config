@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
-<!--
+
+    <message>
+        <deadline>455</deadline>
+        <text>This server (#name) will shutdown in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <delay>10</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text>Discord: discord.gg/qVcY63N to register. Whitelisting will be active after this weekend.</text>
+    </message>
+
+    <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 	
 Example messages:
