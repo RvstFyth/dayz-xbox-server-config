@@ -3,7 +3,7 @@
 
     <message>
         <deadline>455</deadline>
-        <text>This server (#name) will shutdown in #tmin minutes.</text>
+        <text>This server (#name) will restart in #tmin minutes.</text>
     </message>
 
 <!--    <message>-->
