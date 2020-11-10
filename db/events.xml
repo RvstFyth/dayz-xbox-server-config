@@ -574,7 +574,7 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>5</nominal>
+        <nominal>9</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>3600</lifetime>
