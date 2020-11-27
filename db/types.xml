@@ -11030,7 +11030,7 @@
         <category name="tools"/>
     </type>
     <type name="NailBox">
-        <nominal>90</nominal>
+        <nominal>180</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>70</min>
