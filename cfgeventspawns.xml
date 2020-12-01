@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<event name="ItemSantasHat">
+	<event name="ItemCanisterGasoline">
 		<pos x="11701.41" z="9147.66" a="180" />
 	</event>
 	<event name="VehicleCivilianSedan">

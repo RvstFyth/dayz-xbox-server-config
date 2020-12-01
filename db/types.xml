@@ -15675,10 +15675,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Whetstone">
-        <nominal>70</nominal>
+        <nominal>100</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>75</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-    <event name="ItemSantasHat">
+    <event name="ItemCanisterGasoline">
         <nominal>1</nominal>
         <min>1</min>
         <max>1</max>
@@ -881,9 +881,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>12</nominal>
+        <min>10</min>
+        <max>15</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
